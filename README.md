@@ -1,5 +1,3 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8BC34A,100:2979FF&amp;height=180&amp;section=header&amp;text=ChronoScribe%20AI&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Smart%20Timelines%20%26%20Study%20Roadmaps%20from%20Your%20Syllabus&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" alt="Banner"/> </div> <div align="center"> <img src="src/assets/image.png" alt="App Banner" width="95%" style="border-radius:14px; box-shadow: 0 20px 40px rgba(0,0,0,0.45);" /> </div> <br/> <div align="center">
-
 <div align="center">
   <img src="src/assets/image.png" alt="App Banner" width="95%" style="border-radius:14px; box-shadow: 0 20px 40px rgba(0,0,0,0.45);" />
 </div>
