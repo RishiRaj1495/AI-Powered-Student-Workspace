@@ -4,11 +4,13 @@
 
 <br/>
 
-<div align="center">
+
 
 **Turn course syllabi into smart timelines & personalized study roadmaps.**
 
 ChronoScribe AI is an AI-powered student workspace that reads a syllabus, assignment sheet, or course document and automatically extracts every deadline, quiz, exam, and project — then generates a decomposed, milestone-based study plan tailored to your available time and target grade.
+
+<div align="center">
 
 Built for **PROMPT WARS** — Google for Developers × Hack2Skill × Android Club, VIT Bhopal.
 
