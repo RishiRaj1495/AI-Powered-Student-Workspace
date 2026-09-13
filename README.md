@@ -1,12 +1,27 @@
+<div align="center">
+  <img src="src/assets/image.png" alt="Banner" width="95%" />
+</div>
+
+<br/>
+
+
+
 # 🎓 ChronoScribe AI — Student Workspace
 
 **Turn course syllabi into smart timelines & personalized study roadmaps.**
 
 ChronoScribe AI is an AI-powered student workspace that reads a syllabus, assignment sheet, or course document and automatically extracts every deadline, quiz, exam, and project — then generates a decomposed, milestone-based study plan tailored to your available time and target grade.
 
-Built for **PROMPT WARS** — Google for Developers × Hack2Skill × Android Club, VIT Bhopal.
+<div align="center">
+  
+  Built for **PROMPT WARS** — Google for Developers × Hack2Skill × Android Club, VIT Bhopal.
+  
+  <img src="src/assets/image2.png" alt="Design2Code 2.0 Banner" width="50%" />
+  
+  🔗 **Live demo:** [ai-powered-student-workspace.vercel.app](https://ai-powered-student-workspace.vercel.app)
 
-🔗 **Live demo:** [ai-powered-student-workspace.vercel.app](https://ai-powered-student-workspace.vercel.app)
+</div>
+
 
 ---
 
