@@ -1,27 +1,26 @@
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8BC34A,100:2979FF&amp;height=180&amp;section=header&amp;text=ChronoScribe%20AI&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Smart%20Timelines%20%26%20Study%20Roadmaps%20from%20Your%20Syllabus&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" alt="Banner"/> </div> <div align="center"> <img src="src/assets/image.png" alt="App Banner" width="95%" style="border-radius:14px; box-shadow: 0 20px 40px rgba(0,0,0,0.45);" /> </div> <br/> <div align="center">
+
 <div align="center">
-  <img src="src/assets/image.png" alt="Banner" width="95%" />
+  <img src="src/assets/image.png" alt="App Banner" width="95%" style="border-radius:14px; box-shadow: 0 20px 40px rgba(0,0,0,0.45);" />
 </div>
 
 <br/>
 
-
-
-# 🎓 ChronoScribe AI — Student Workspace
+<div align="center">
 
 **Turn course syllabi into smart timelines & personalized study roadmaps.**
 
 ChronoScribe AI is an AI-powered student workspace that reads a syllabus, assignment sheet, or course document and automatically extracts every deadline, quiz, exam, and project — then generates a decomposed, milestone-based study plan tailored to your available time and target grade.
 
-<div align="center">
-  
-  Built for **PROMPT WARS** — Google for Developers × Hack2Skill × Android Club, VIT Bhopal.
-  
-  <img src="src/assets/image2.png" alt="Design2Code 2.0 Banner" width="50%" />
-  
-  🔗 **Live demo:** [ai-powered-student-workspace.vercel.app](https://ai-powered-student-workspace.vercel.app)
+Built for **PROMPT WARS** — Google for Developers × Hack2Skill × Android Club, VIT Bhopal.
+
+<img src="src/assets/image2.png" alt="Design2Code 2.0 Banner" width="50%" style="border-radius:14px; box-shadow: 0 15px 30px rgba(0,0,0,0.4);" />
+
+<br/><br/>
+
+[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-ai--powered--student--workspace.vercel.app-6366f1?style=for-the-badge&labelColor=1e1b2e)](https://ai-powered-student-workspace.vercel.app)
 
 </div>
-
 
 ---
 
@@ -37,6 +36,12 @@ ChronoScribe AI is an AI-powered student workspace that reads a syllabus, assign
 - **🔒 Private by design** — Your Gemini API key and documents stay in the browser (localStorage/sessionStorage); nothing is sent to a backend.
 
 ## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,nodejs,vercel&amp;theme=dark&amp;perspective=true" alt="Tech stack" />
+</div>
+
+<br/>
 
 - **Frontend:** React 18 + Vite
 - **Styling:** Tailwind CSS
@@ -124,6 +129,25 @@ The app works out of the box using built-in sample syllabi and a smart fallback 
 
 Built for **PROMPT WARS**, organized by **Google for Developers × Hack2Skill × Android Club, VIT Bhopal**.
 
+### 👤 Built By
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RishiRaj1495">
+        <img src="https://avatars.githubusercontent.com/RishiRaj1495" width="80px" style="border-radius:50%; border: 2px solid #c8f135; box-shadow: 0 8px 20px rgba(200,241,53,0.35);" alt="Rishi Raj"/><br/>
+        <sub><b>Rishi Raj</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 ## 📄 License
 
 No license has been specified yet for this repository. Add a `LICENSE` file to define usage terms.
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2979FF,50:00BCD4,100:8BC34A&amp;height=100&amp;section=footer" alt="Footer"/>
+</div>
